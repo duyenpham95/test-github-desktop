@@ -1,1 +1,1 @@
-Hello this is add a new file
+Hello this is add a conflict file
